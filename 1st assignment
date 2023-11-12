@@ -1,0 +1,4 @@
+-87.8,6,'hello' are values and *,-1,/,+ are expressions.
+string contains sequence of charecter such as "rakshit" or "hello" and variable is a name given to storage which contains values, it can be either value or string.
+three different types of data types are "integer data type":it is numeric data type for numbers without fractions eg:- 1,2 3,-1, 5, "float data type": it is numeric data type for numbers with fractions eg:- 1.2,3.5,7.0,"string data type":sequence of charecters digits and symbols are always treated as a text eg:"hello".
+expression is made up of values, variables, operators and interpreter evaluates expressions and display results.
